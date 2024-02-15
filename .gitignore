@@ -1,6 +1,16 @@
 # Flask related files
 
 __pycache__/
+.idea/
+.vscode/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+docs/_build/
+dist/
+venv/
+
 *.pyc
 *.pyo
 instance/
